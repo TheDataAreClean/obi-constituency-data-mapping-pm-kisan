@@ -45,4 +45,4 @@ cd obi-constituency-data-mapping-pm-kisan
 
 ### Issue Reporting
 
-For any new feature or bug reports, please request it in issues.
+For any new feature or bug reports, please request it in [issues](https://github.com/cbgaindia/obi-constituency-data-mapping-pm-kisan/issues).
