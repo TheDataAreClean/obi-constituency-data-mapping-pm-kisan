@@ -18,13 +18,14 @@ This repository explains the process of estimating pay data at the village level
     |   |-- summary/      
     |   |-- README.md/
 
-### Softwares Used
+### Dependencies
+#### Softwares Used
 
 * QGIS v3.18.3 Zurich
 * Jupyter Notebook
 * Python v3.6+
 
-### Python Library Used
+#### Python Library Used
 * openpyxl
 * numpy
 * pandas
