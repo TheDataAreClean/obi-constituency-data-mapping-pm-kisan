@@ -1,7 +1,7 @@
 # PM Kisan Yojna constituency level data
 
 ### Description
-This repository explains the process of estimating pay data at the village level scrapped from the government MIS portal to pay estimates at the assembly constituency (AC) and parliamentary constituency (PC) level.
+This repository explains the process of estimating pay data at the village level scrapped from the government MIS portal to pay estimates at the assembly constituency (AC) and parliamentary constituency (PC) level. It contains state-wise folder for the scheme.
 
 ### Directory Structure
 
