@@ -42,6 +42,10 @@ Go to project Directory
 ```bash
 cd obi-constituency-data-mapping-pm-kisan
 ```
+Install dependencies
+```
+$ pip install notebook
+```
 
 ### Issue Reporting
 
