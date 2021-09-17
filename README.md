@@ -29,9 +29,6 @@ This repository explains the process of estimating pay data at the village level
 * openpyxl
 * numpy
 * pandas
-* scikit-learn
-* matplotlib
-* seaborn
 
 ### Run Locally
 Clone the project
