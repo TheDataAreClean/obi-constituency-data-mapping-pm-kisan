@@ -50,3 +50,7 @@ $ pip install notebook
 ### Issue Reporting
 
 For any new feature or bug reports, please request it in [issues](https://github.com/cbgaindia/obi-constituency-data-mapping-pm-kisan/issues).
+
+### Data License
+
+Unless explicitly stated, all datasets in this repository is shared under AGPL v3 license. Please mention and link to relevant dataset in the attribution.
